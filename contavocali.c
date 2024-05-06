@@ -4,6 +4,7 @@
 void leggiStringa(char s[],int len);
 
 int main(){
+	//inserisci la password
 	char s[256];
 	printf("Inserisci una stringa: ");
 	leggiStringa(s,256);
